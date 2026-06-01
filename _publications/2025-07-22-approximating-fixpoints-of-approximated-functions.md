@@ -5,8 +5,7 @@ category: conferences
 permalink: /publication/2025-07-22-approximating-fixpoints-of-approximated-functions
 excerpt: 'Approximating fixpoints of non-expansive functions using only a sequence of approximations to the function of interest with applications to model-based reinforcement learning.'
 date: 2025-07-22
-venue: 'CAV 2025'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
+venue: 'CAV'
 paperurl: 'https://doi.org/10.1007/978-3-031-98679-6_9'
 bibtexurl: 'https://flo-witt.github.io/files/approximating-25.bib'
 citation: 'Baldan, P., Gurke, S., König, B., Padoan, T., Wittbold, F. (2025). Approximating Fixpoints of Approximated Functions. In: Piskac, R., Rakamarić, Z. (eds) Computer Aided Verification. CAV 2025. Lecture Notes in Computer Science, vol 15932. Springer, Cham.'
