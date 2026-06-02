@@ -98,6 +98,13 @@ teaching_category:
   supervision:
     title: 'Thesis Supervision'
 
+# Talk Category - The following the list of talk categories and their headings
+talk_category:
+  conferences:
+    title: 'Conference Presentation'
+  nonconferences:
+    title: 'Talk'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)

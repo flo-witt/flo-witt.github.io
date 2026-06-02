@@ -13,6 +13,16 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<!-- New style rendering if talk categories are defined -->
+{% if site.talk_category %}
+  {% for post in site.talks reversed %}
+    {% if post.category != "conferences" %}
+      {% continue %}
+    {% endif %}
+    {% include archive-single-talk.html %}
+  {% endfor %}
+{% else %}
+  {% for post in site.talks reversed %}
+    {% include archive-single-talk.html %}
+  {% endfor %}
+{% endif %}
