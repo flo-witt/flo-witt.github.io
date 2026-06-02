@@ -11,7 +11,7 @@ var addressPoints = [
   ],
   [
     "Talk on Approximating Fixed Points of Approximated Functions<br />iCIS, Radboud University; Nijmegen, Netherlands",
-    51.8474946,
-    5.8637771
+    51.8425749,
+    5.8389606
   ]
 ];
