@@ -5,18 +5,13 @@ var addressPoints = [
     16.3725042
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Talk on Computing Fixpoints of Learned Functions<br />DCON 2026; Berlin, Germany",
+    52.5173885,
+    13.3951309
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Talk on Approximating Fixed Points of Approximated Functions<br />iCIS, Radboud University; Nijmegen, Netherlands",
+    51.8474946,
+    5.8637771
   ]
 ];
