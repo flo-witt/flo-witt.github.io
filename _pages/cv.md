@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Software and Network Engineering, University of Duisburg-Essen, 2022 (with distinction)
+* M.S. in Technomathematics, University of Duisburg-Essen, 2021 (with distinction)
+* B.S. in Technomathematics, University of Duisburg-Essen, 2018 (with distinction)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2022: Research and Teaching Assistant
+  * University of Duisburg-Essen
+  * Course of Study: Computer Science
+  * Supervisor: Professor Dr. Barbara König
   
-Skills
+Language Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* German: Native
+* English: Level C2
+* French: Level B1
 
 Publications
 ======
@@ -53,6 +40,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -62,3 +50,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->

@@ -1,11 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Computability and Complexity"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+category: assistance
+type: "Bachelor course"
+permalink: /teaching/computability-and-complexity
+venue: "University of Duisburg-Essen, Department of Computer Science"
+date: 2022-01-01
+location: "Duisburg, Germany"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
