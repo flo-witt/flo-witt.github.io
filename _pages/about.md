@@ -24,8 +24,8 @@ My broader research interests include formal guarantees for (deep) reinforcement
 
 (conference presentations associated with a paper are omitted)
 
-* *Approximating Fixed Points of Approximated Functions* @ ISTA Vienna 2024. Invited talk.
-* *Approximating Fixed Points of Approximated Functions* @ iCIS Nijmegen 2025. Invited talk.
+* *Approximating Fixed Points of Approximated Functions* @ ISTA Vienna 2024. 
+* *Approximating Fixed Points of Approximated Functions* @ iCIS Nijmegen 2025. 
 * *Computing Fixpoints of Learned Functions* @ DCON 2026.
 
 ## Research Visits and Summer Schools
@@ -46,14 +46,14 @@ My broader research interests include formal guarantees for (deep) reinforcement
 
 ## Thesis Supervision
 
-* Patrick Neumann: *Ein Werkzeug zum Lernen von gewichteten Automaten*. Master thesis, 2023.
-* Yilong Zhang: *Optimal Decision-making in Probabilistic Systems*. Bachelor thesis, 2023.
-* Maram Abdelwahab: *Designing and Evaluating CAPTCHA Identification Systems with Deep Learning Methods*. Bachelor thesis, 2023.
-* Nils Thore Kruse: *Entwicklung und Evaluation von Reinforcement-Learning-Algorithmen*. Master thesis, 2023.
-* Michael Litvine: *Lernen von stochastischen Petri-Netzen*. Bachelor thesis, 2024.
-* Shiyam Sivam: *Model-Checking für stochastische Petri-Netze*. Master thesis, 2024.
-* Can Malatyalioglu: *Implementation and Evaluation of a Tool for Model-Checking Computation Tree Logic (CTL)*. Bachelor thesis, 2024.
-* Md Shefath Tajdid Pranto: *A Tool for Solving Graph Problems with an SMT-Solver*. Bachelor thesis, 2024.
-* Fabian Erbslöh: *Ein Werkzeug für gewichtete Graphprobleme unter Einsatz von SMT-Solvern*. Bachelor thesis, 2025.
-* Thies Josten: *Implementierung von Lösungsverfahren für Flussprobleme: maximaler Fluss und minimale Kosten*. Bachelor thesis, 2025.
-* Qingqing Jiang: *A Tool for Analyzing Partially Observable Markov Decision Processes*. Master thesis, 2026.
+* *Ein Werkzeug zum Lernen von gewichteten Automaten*. Master thesis, 2023.
+* *Optimal Decision-making in Probabilistic Systems*. Bachelor thesis, 2023.
+* *Designing and Evaluating CAPTCHA Identification Systems with Deep Learning Methods*. Bachelor thesis, 2023.
+* *Entwicklung und Evaluation von Reinforcement-Learning-Algorithmen*. Master thesis, 2023.
+* *Lernen von stochastischen Petri-Netzen*. Bachelor thesis, 2024.
+* *Model-Checking für stochastische Petri-Netze*. Master thesis, 2024.
+* *Implementation and Evaluation of a Tool for Model-Checking Computation Tree Logic (CTL)*. Bachelor thesis, 2024.
+* *A Tool for Solving Graph Problems with an SMT-Solver*. Bachelor thesis, 2024.
+* *Ein Werkzeug für gewichtete Graphprobleme unter Einsatz von SMT-Solvern*. Bachelor thesis, 2025.
+* *Implementierung von Lösungsverfahren für Flussprobleme: maximaler Fluss und minimale Kosten*. Bachelor thesis, 2025.
+* *A Tool for Analyzing Partially Observable Markov Decision Processes*. Master thesis, 2026.
