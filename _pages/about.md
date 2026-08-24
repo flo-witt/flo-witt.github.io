@@ -27,6 +27,7 @@ My broader research interests include formal guarantees for (deep) reinforcement
 * *Approximating Fixed Points of Approximated Functions* @ ISTA Vienna 2024. 
 * *Approximating Fixed Points of Approximated Functions* @ iCIS Nijmegen 2025. 
 * *Computing Fixpoints of Learned Functions* @ DCON 2026.
+* *Approximative Fixpoint Theory* @ ACV 2026. *Invited Talk*
 
 ## Research Visits and Summer Schools
 
