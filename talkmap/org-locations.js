@@ -10,7 +10,7 @@ var addressPoints = [
     7.6824892
   ],
   [
-    "Approximative Fixpoint Theory<br />ACV; Lisbon, Portugal",
+    "Approximative Fixpoint Theory<br />ACV 2026; Lisbon, Portugal",
     38.7077507,
     -9.1365919
   ],
